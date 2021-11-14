@@ -1,6 +1,6 @@
 {
   "iisSettings": {
-    "windowsAuthentication": false,
+    "windowsAuthentication": true,
     "anonymousAuthentication": true,
     "iis": {
       "applicationUrl": "http://localhost/SalesWebMvc",
@@ -8,7 +8,7 @@
     },
     "iisExpress": {
       "applicationUrl": "http://localhost:5001",
-      "sslPort": 44366
+      "sslPort": 0
     }
   },
   "profiles": {
