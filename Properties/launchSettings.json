@@ -7,8 +7,8 @@
       "sslPort": 0
     },
     "iisExpress": {
-      "applicationUrl": "http://localhost:58533",
-      "sslPort": 44373
+      "applicationUrl": "http://localhost:5001",
+      "sslPort": 0
     }
   },
   "profiles": {
@@ -20,6 +20,7 @@
       },
       "sqlDebugging": false,
       "nativeDebugging": false,
+      "use64Bit": true,
       "jsWebView2Debugging": false
     },
     "SalesWebMvc": {
