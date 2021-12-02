@@ -20,6 +20,3 @@ Projeto final realizado pelo professor “Nelio Alves” do curso “C# completo
 •	ASP.NET Core MVC<br>
 •	Entity Framework<br>
 •	MySQL workbench community 8.0.21 winx64 <br>
-
-<h3>Observações</h3>
-•	Nenhuma até o momento. <br>
